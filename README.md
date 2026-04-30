@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4bfe3025-6796-4160-b894-9ca89c6da77f" /># Unit Economics Analysis — Sample Superstore
 
 ## Overview
 This project explores unit economics metrics using the Sample Superstore dataset.
