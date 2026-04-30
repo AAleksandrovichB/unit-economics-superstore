@@ -1,4 +1,4 @@
-# Unit Economics Analysis — Sample Superstore
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4bfe3025-6796-4160-b894-9ca89c6da77f" /># Unit Economics Analysis — Sample Superstore
 
 ## Overview
 This project explores unit economics metrics using the Sample Superstore dataset.
@@ -7,6 +7,9 @@ The goal is to understand which customer segments generate the most value per or
 ## Tools
 - **DBeaver** — SQL queries and data extraction
 - **Power BI** — dashboard design and visualization
+
+**Dataset:**
+[Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) — public dataset
 
 ## Metrics Analyzed
 | Metric | Description |
@@ -58,6 +61,9 @@ ORDER BY CM_ratio DESC;
 ## Инструменты
 - **DBeaver** — написание SQL-запросов и выгрузка данных
 - **Power BI** — построение дашборда и визуализация
+
+**Датасет:**
+[Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) — публичный датасет от Tableau
 
 ## Анализируемые метрики
 | Метрика | Описание |
